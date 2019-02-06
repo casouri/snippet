@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: init
+# key: init
+# --
+<!DOCTYPE html>
+<html>
+<head>
+<title>$1</title>
+</head>
+<body>$2
+</body>
+</html>
